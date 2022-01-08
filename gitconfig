@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = annelibentler@hotmail.com
+	name = Anneli Bentler
